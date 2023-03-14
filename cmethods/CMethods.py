@@ -1,4 +1,9 @@
 #!/bin/python3
+# -*- coding:utf-8 -*-
+# Copyright (C) 2023 Benjamin Thomas Schwertfegerr
+# Github: https://github.com/btschwertfeger
+#
+
 '''Module that implements the bias adjustment procedutes'''
 from typing import List
 import multiprocessing
