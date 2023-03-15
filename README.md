@@ -1,3 +1,6 @@
+
+**Note**: This repo is a fork of the [python-cmethods](https://github.com/btschwertfeger/python-cmethods), with modifications and bug fixes to make it work as a submodule of the [clim-recal](https://github.com/alan-turing-institute/clim-recal) project.  
+
 # Bias correction/adjustment procedures for climatic reasearch
 
 <div align="center">
